@@ -1,4 +1,4 @@
-package br.com.hallucinations.restwithspringswaggerdocker;
+package br.com.hallucinations;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
